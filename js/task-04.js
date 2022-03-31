@@ -15,4 +15,4 @@ function incrementBtnClickHandler() {
 function decrementBtnClickHandler() {
   counterValue -= 1;
   numberOfClicks.innerHTML = counterValue;
-}
+} 
